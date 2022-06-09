@@ -1,4 +1,4 @@
 ## Algorithm Ignore File ##
 *.idea
 out
-*.imi
+*.iml
