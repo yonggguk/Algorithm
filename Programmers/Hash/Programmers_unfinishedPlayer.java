@@ -25,7 +25,7 @@ class Solution {
     }
 }
 */
-class Solution{
+class Programmers_unfinishedPlayer{
     public String solution(String[] participant, String[] completion){
         String answer = "";
         HashMap<String, Integer> map = new HashMap<>();

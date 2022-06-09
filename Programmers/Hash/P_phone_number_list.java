@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Algo {
+public class P_phone_number_list {
     public static boolean Solution(String[] phone_book){
         boolean answer = true;
         Map<String, Integer> map = new HashMap<>();

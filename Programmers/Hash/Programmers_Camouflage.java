@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Programmers_Camouflage {
     public int solution(String[][] clothes) {
         int answer = 0;
         Map<String, Integer> map = new HashMap<String, Integer>();
