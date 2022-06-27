@@ -12,9 +12,6 @@ public class TestMain {
         List<String> list = new ArrayList<String>(Arrays.asList(splitS));
         System.out.println(splitS.getClass().getName());
         list.removeAll(Collections.singletonList(""));
-        list.
-        Long k = Long.parseLong(s);
-        System.out.println(k);
         System.out.println(list);
     }
 }
