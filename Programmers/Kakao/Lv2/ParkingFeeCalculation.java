@@ -3,6 +3,15 @@ package Lv2;
 import java.util.*;
 import java.lang.String;
 
+
+
+
+
+
+
+
+
+
 //runtime Error
 /*
 public class ParkingFeeCalculation{
@@ -94,9 +103,9 @@ public class ParkingFeeCalculation{
     }
 }*/
 
-
-public class ParkingFeeCalculation{
 /*
+public class ParkingFeeCalculation{
+
     public static HashMap<String, Integer> calculateParkingFee(HashMap<String, Integer> p, int[] f){
         HashMap<String, Integer> parkingInfo = p;
         int[] feesInfo = f;
@@ -111,8 +120,7 @@ public class ParkingFeeCalculation{
         }
         return res;
     }
-*/
-/*
+
     public int getMin(String time){
         String[] splitTime = time.split(":");
         int Hour = Integer.parseInt(splitTime[0]);
@@ -120,7 +128,7 @@ public class ParkingFeeCalculation{
 
         return Hour * 60 + Min;
     }
-*/
+
     public static void main(String args[]) {
 
         int[] fees = {1, 461, 1, 10};
@@ -186,4 +194,5 @@ public class ParkingFeeCalculation{
 
     }
 
-}
+}*/
+
