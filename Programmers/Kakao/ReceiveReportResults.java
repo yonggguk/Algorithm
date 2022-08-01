@@ -2,7 +2,6 @@
 2022 KAKAO BLIND RECRUITMENT
 신고 결과 받기
 */
-
 import java.util.*;
 
 class ReceiveReportResults {
